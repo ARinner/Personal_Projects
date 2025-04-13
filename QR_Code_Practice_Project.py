@@ -10,7 +10,7 @@
 
 import qrcode
 # Define your data (Will change later)
-data = 'Did this work?!'
+data = 'https://tenor.com/d1Lk3HwLdYe.gif'
 
 #Generate your QR code
 qr = qrcode.QRCode(
